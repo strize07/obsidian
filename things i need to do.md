@@ -1,3 +1,7 @@
 - web animations
 - networking or hacking
 - game
+- python animations and scripting
+- android apps
+- content
+- 
