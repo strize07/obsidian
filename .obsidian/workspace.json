@@ -134,19 +134,27 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "bc71de68a4b199f1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,7 +169,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "46b006c4b67f7371",
+  "active": "435da2ceb0db4655",
   "lastOpenFiles": [
     "cool things i wanna buy.md",
     "Cool Ideas.md",
