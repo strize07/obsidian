@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "ae1cb681b2ae5e3a",
+        "id": "7aaab2efbdbd321d",
         "type": "tabs",
         "children": [
           {
-            "id": "46b006c4b67f7371",
+            "id": "0ba20d53eba29d31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "things i need to do.md",
+                "file": "Finance/what i want it for RN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "things i need to do"
-            }
-          },
-          {
-            "id": "3fe890a97d049d65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Passwords.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Passwords"
+              "title": "what i want it for RN"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,8 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,14 +173,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3fe890a97d049d65",
+  "active": "0ba20d53eba29d31",
   "lastOpenFiles": [
-    "Youtube/channel intro.md",
+    "things i need to do.md",
+    "Finance/what i want it for RN.md",
     "daily note/Jan 07, 2025.md",
+    "Passwords.md",
+    "Youtube/channel intro.md",
     "cool things i wanna buy.md",
     "Youtube/Music/music theory basics.md",
     "Youtube/editing/phjrases.md",
-    "things i need to do.md",
     "things i have to learn rn.md",
     "Untitled.md",
     "Game/game lts.md",
@@ -208,7 +194,6 @@
     "Excalidraw/Drawing 2025-01-03 11.40.30.excalidraw.md",
     "Excalidraw/Drawing 2024-10-17 13.11.10.excalidraw.md",
     "Game engine",
-    "Passwords.md",
     "Untitled 2.md",
     "Excalidraw/Drawing 2024-12-12 22.13.14.excalidraw.md",
     "Excalidraw/Drawing 2024-11-22 17.36.10.excalidraw.md",
@@ -218,7 +203,6 @@
     "design/Art/color theory.md",
     "Excalidraw/Drawing 2024-10-04 00.18.20.excalidraw.md",
     "2024-09-10 Quick note.md",
-    "2024-09-10 Quick note 1.md",
     "daily note",
     "design/animation",
     "design/3d",

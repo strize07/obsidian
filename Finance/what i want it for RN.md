@@ -1,0 +1,15 @@
+- afford proper nutrition
+- move out
+# how do i plan to earn it
+- some kind of services mainly, something that people would use regularly and some will pay for the premium features
+	- ### what services
+		- 
+- games, cz some go popular and pay big time
+	- ### what kind 
+		- web games cz then people might revisit... and?
+- ## freelance?
+	- dk if all hope lost or start for learning
+- content
+	- brand sponcer
+	- yt money
+	- and promote stuff
