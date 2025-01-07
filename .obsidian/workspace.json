@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Youtube/channel intro.md",
+                "file": "Passwords.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "channel intro"
+              "title": "Passwords"
             }
           }
         ],
@@ -191,8 +191,8 @@
   },
   "active": "3fe890a97d049d65",
   "lastOpenFiles": [
-    "daily note/Jan 07, 2025.md",
     "Youtube/channel intro.md",
+    "daily note/Jan 07, 2025.md",
     "cool things i wanna buy.md",
     "Youtube/Music/music theory basics.md",
     "Youtube/editing/phjrases.md",
