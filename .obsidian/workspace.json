@@ -173,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,8 +189,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f713c9517286b8b7",
+  "active": "3fe890a97d049d65",
   "lastOpenFiles": [
+    "daily note/Jan 07, 2025.md",
+    "Youtube/channel intro.md",
     "cool things i wanna buy.md",
     "Youtube/Music/music theory basics.md",
     "Youtube/editing/phjrases.md",
@@ -216,8 +219,6 @@
     "Excalidraw/Drawing 2024-10-04 00.18.20.excalidraw.md",
     "2024-09-10 Quick note.md",
     "2024-09-10 Quick note 1.md",
-    "2024-09-11 Quick note.md",
-    "2024-09-11 Quick note 1.md",
     "daily note",
     "design/animation",
     "design/3d",
