@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "things i need to do"
             }
+          },
+          {
+            "id": "3fe890a97d049d65",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-01-07 11.40.12.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-01-07 11.40.12.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,10 +187,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bc71de68a4b199f1",
+  "active": "3fe890a97d049d65",
   "lastOpenFiles": [
-    "Untitled 1.md",
     "things i need to do.md",
+    "Excalidraw/Drawing 2025-01-07 11.40.12.excalidraw.md",
+    "Untitled 1.md",
     "cool things i wanna buy.md",
     "Cool Ideas.md",
     "Excalidraw/Drawing 2025-01-06 16.25.34.excalidraw.md",
@@ -203,7 +218,6 @@
     "Youtube/channel intro.md",
     "Youtube/what makes a video entertaining.md",
     "Excalidraw/Drawing 2024-09-10 21.56.34.excalidraw.md",
-    "Excalidraw/Drawing 2024-08-22 21.51.23.excalidraw.md",
     "design/animation",
     "design/3d",
     "design/Art, 3d modeling and animation/Untitled",
