@@ -1,3 +1,0 @@
-# HTMl
-# JS
-# CSS

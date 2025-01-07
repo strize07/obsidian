@@ -25,12 +25,14 @@
             "id": "3fe890a97d049d65",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-01-07 11.40.12.excalidraw.md"
+                "file": "website/things i need to learn to start.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-07 11.40.12.excalidraw"
+              "icon": "lucide-file",
+              "title": "things i need to learn to start"
             }
           }
         ],
@@ -171,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,15 +190,15 @@
   },
   "active": "3fe890a97d049d65",
   "lastOpenFiles": [
-    "things i need to do.md",
     "Excalidraw/Drawing 2025-01-07 11.40.12.excalidraw.md",
+    "things i need to do.md",
     "Untitled 1.md",
     "cool things i wanna buy.md",
     "Cool Ideas.md",
     "Excalidraw/Drawing 2025-01-06 16.25.34.excalidraw.md",
     "Excalidraw/Drawing 2025-01-03 11.40.30.excalidraw.md",
     "Excalidraw/Drawing 2024-10-17 13.11.10.excalidraw.md",
-    "CS/website/things i need to learn to start.md",
+    "website/things i need to learn to start.md",
     "Game engine",
     "Passwords.md",
     "Untitled 2.md",
