@@ -1,5 +1,4 @@
 - launcher
-- link sheet
 - keyboard gpt
 - alarm
 - stand by
