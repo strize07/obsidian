@@ -7,7 +7,6 @@
 - lspatch
 - paperize
 - ashell
-- shawlo
 - seal
 - termux
 - dynamic spot
