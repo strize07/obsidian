@@ -1,5 +1,9 @@
 - <! DOCTYPE html>
 - h1 /h1 - h6
 - p /p, br(nbt)
-- pre /(follows the way you w)
+- pre /(follows the way you write)
+- img(nbt)
+- a herf='link'> blah < a
+- hr(nbt)
+- 
 - 
