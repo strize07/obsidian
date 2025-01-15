@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "website/1st website.md",
+                "file": "website/html tags.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1st website"
+              "title": "html tags"
             }
           }
         ],
@@ -218,8 +218,9 @@
   },
   "active": "65494aea5ef290f6",
   "lastOpenFiles": [
-    "website/things i need to learn to start.md",
     "website/1st website.md",
+    "website/html tags.md",
+    "website/things i need to learn to start.md",
     "cool tech finds.md",
     "what makes a good product.md",
     "what am i making.md",
@@ -244,7 +245,6 @@
     "Game engine",
     "Untitled 2.md",
     "Excalidraw/Drawing 2024-12-12 22.13.14.excalidraw.md",
-    "Excalidraw/Drawing 2024-11-22 17.36.10.excalidraw.md",
     "Assets/Pasted Image 20240910220242_392.jpg",
     "daily note",
     "design/animation",

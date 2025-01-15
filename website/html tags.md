@@ -1,0 +1,5 @@
+- <! DOCTYPE html>
+- h1 /h1 - h6
+- p /p, br(nbt)
+- pre /(follows the way you w)
+- 
