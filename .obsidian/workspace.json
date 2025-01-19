@@ -62,9 +62,21 @@
               "icon": "lucide-file",
               "title": "html tags"
             }
+          },
+          {
+            "id": "4a6fb06d7f1519f1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-01-19 11.30.12.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-01-19 11.30.12.excalidraw"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -216,10 +228,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "65494aea5ef290f6",
+  "active": "4a6fb06d7f1519f1",
   "lastOpenFiles": [
-    "website/1st website.md",
     "website/html tags.md",
+    "Excalidraw/Drawing 2025-01-19 11.30.12.excalidraw.md",
+    "website/1st website.md",
     "website/things i need to learn to start.md",
     "cool tech finds.md",
     "what makes a good product.md",
@@ -244,7 +257,6 @@
     "Excalidraw/Drawing 2024-10-17 13.11.10.excalidraw.md",
     "Game engine",
     "Untitled 2.md",
-    "Excalidraw/Drawing 2024-12-12 22.13.14.excalidraw.md",
     "Assets/Pasted Image 20240910220242_392.jpg",
     "daily note",
     "design/animation",
